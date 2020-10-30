@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/morteza-jamali/morteza-jamali/master/assets/mylogo.png" alt="My logo" width="300" />
+<img src="profile.svg" />
 </h1>
 
 ### :heart: My favorite tools , languages , IDEs , Operating Systems and graphical softwares
