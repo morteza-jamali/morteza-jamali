@@ -96,7 +96,7 @@
 <img src="https://github-readme-stats.morteza-jamali.vercel.app/api/top-langs?username=morteza-jamali&bg_color=ffffff&hide_border=true&langs_count=10&layout=compact" width="48%" align="middle"/>
 </h1>
 <h1 align="center">
-<img src="https://github-readme-stats.morteza-jamali.vercel.app/api/wakatime?username=mortezajamali&hide_border=true&v=2" width="100%"/>
+<img src="https://github-readme-stats.morteza-jamali.vercel.app/api/wakatime?username=mortezajamali&hide_border=true&v=2&layout=compact" width="100%"/>
 </h1>
 
 <blockquote>
