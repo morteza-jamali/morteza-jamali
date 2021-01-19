@@ -46,4 +46,9 @@
 			<div class="bb"></div>
 		</div>
 	</foreignObject>
+  <script type="text/javascript">
+    window.addEventListener('load',function(){
+        alert('Hi')
+        });
+  </script>
 </svg>
