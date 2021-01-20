@@ -99,6 +99,8 @@
 <img src="https://github-readme-stats.morteza-jamali.vercel.app/api/wakatime?username=mortezajamali&hide_border=true&v=2&layout=compact" width="100%"/>
 </h1>
 
+:bell: Join my [Telegram channel](https://t.me/web_developerz) to find trends and updates in **Web development**
+
 <blockquote>
 &#8987; Time is gold , don't waste that .
 </blockquote>
