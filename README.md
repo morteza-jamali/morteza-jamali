@@ -91,8 +91,6 @@
 
 ### 👨‍💻 I'm currently working on [Electron OS](https://github.com/Electron-OS) project
 
-### :bell: Join my [Telegram channel](https://t.me/web_developerz) to find trends and updates in **Web development**
-
 <h1 align="center">
 <img src="https://github-readme-stats.morteza-jamali.vercel.app/api?username=morteza-jamali&show_icons=true&bg_color=ffffff&hide_border=true&include_all_commits=true" width="48%" align="middle"/>
 <img src="https://github-readme-stats.morteza-jamali.vercel.app/api/top-langs?username=morteza-jamali&bg_color=ffffff&hide_border=true&langs_count=10&layout=compact" width="48%" align="middle"/>
