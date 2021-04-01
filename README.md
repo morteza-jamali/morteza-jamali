@@ -1,5 +1,5 @@
 
-🆎 **Languages**: English , (*emphasized text* - In the learning process)
+🆎 **Languages**: English , (*German, Russian* - In the learning process)
 
 👨‍💻 I'm currently working on [Electron OS](https://github.com/Electron-OS) project
 <h1 align="center">
